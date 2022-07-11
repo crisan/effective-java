@@ -1,4 +1,4 @@
-package org.example;
+package cl.crisan;
 
 import static org.junit.Assert.assertTrue;
 
